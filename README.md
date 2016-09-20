@@ -1,8 +1,8 @@
 # The421
 The French rolldice
 
-This game have been developped under codeblocks.
+This game has been developped under codeblocks.
 
-Let's compile and play ! :)
+Let's compile and play it! :)
 
 Dylan 
