@@ -1,0 +1,44 @@
+The 421 is a French dicegame.
+The following lines describes the rules chosen in this game.
+The goal is to have no tokens. There are 21 tokens.
+
+We play in the growing sense of the number of players.
+The very first player is randomly chosen.
+
+In the biginning, each player has no tokens.
+This game has two phases. The first one is called "the charge".
+It consists in giving out tokens to the players. The second one is
+called "the discharge". In each turn of this phase a player gives
+a number of tokens to another.
+This game ends when a player has no more tokens.
+
+In each turn of each phase, the process is the following: 
+The first player of the turn roll the three dices and he can reroll 
+one, two or the three dices two times. The following players can 
+reroll maximum as much as the first player.
+
+During the first phase (the charge), at the end of each turn, 
+the one who has the weakest combinaison has tokens. The number 
+of tokens is defined by the strongest combinaison. 
+During the second phase (the discharge), at the end of each turn,
+The player with the weakest combinaison has tokens from the 
+player with the strongest combinaison. The number of tokens is
+defined by the strongest combinaison. 
+
+The player with the weakest combinaison starts the next turn.
+
+In the event of a tie, the player who has made the last dice is taken 
+into accornt.
+
+Here are the rules to determine the number of given tokens:
+If the strongest combinaison of the turn is ... the player with 
+the weakest combinaison has : 
+421 -> 10 tokens
+111 -> 7 tokens
+116 or 666 -> 6 tokens
+115 or 555 -> 5 tokens
+114 or 444 -> 4 tokens
+113 or 333 -> 3 tokens
+112 or 222 -> 2 tokens
+A sequence : 123 or 234... -> 2 tokens
+In the order 665 > 664... -> 1 token

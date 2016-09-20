@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1389215147 source:c:\users\dylan\desktop\devoirsaint\info\lcp\le421\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1387567883 source:c:\users\dylan\desktop\le421a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1474324890 source:c:\users\dylan\desktop\le421\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1474398495 source:c:\users\dylan\desktop\le421 - en\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
