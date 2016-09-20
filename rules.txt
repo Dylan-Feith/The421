@@ -5,7 +5,7 @@ The goal is to have no tokens. There are 21 tokens.
 We play in the growing sense of the number of players.
 The very first player is randomly chosen.
 
-In the biginning, each player has no tokens.
+In the beginning, each player has no token.
 This game has two phases. The first one is called "the charge".
 It consists in giving out tokens to the players. The second one is
 called "the discharge". In each turn of this phase a player gives
@@ -13,13 +13,14 @@ a number of tokens to another.
 This game ends when a player has no more tokens.
 
 In each turn of each phase, the process is the following: 
-The first player of the turn roll the three dices and he can reroll 
+The first player of the turn rolls the three dices and he can reroll 
 one, two or the three dices two times. The following players can 
 reroll maximum as much as the first player.
 
 During the first phase (the charge), at the end of each turn, 
 the one who has the weakest combinaison has tokens. The number 
-of tokens is defined by the strongest combinaison. 
+of tokens is defined by the strongest combinaison. This phase 
+ends when all the 21 tokens are distributed.
 During the second phase (the discharge), at the end of each turn,
 The player with the weakest combinaison has tokens from the 
 player with the strongest combinaison. The number of tokens is
