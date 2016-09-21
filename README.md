@@ -1,7 +1,7 @@
 # The421
-The French rolldice
+_The French dicegame_
 
-This game has been developped in C under codeblocks in 2014.
+*This game _has* been_ developped in C under codeblocks in 2014.
 
 Let's compile and play it! :)
 
